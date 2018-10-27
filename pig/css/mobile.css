@@ -1,0 +1,202 @@
+@media only screen and (max-width:900px ) 
+{
+	body{
+		min-height: 482px;
+		position: relative;
+	}
+
+
+@media screen and (max-height: 485px){
+        body{
+            overflow: visible;
+            padding-bottom: 50px;
+        }
+    }
+
+body{
+	margin: 0;
+}
+.head {
+	width: 1200px;
+	height: 50px;
+	position: relative;
+	top: 200px;
+	left: -100px;
+}
+
+.background{
+	background: url(../img/g_banner_background.png);
+    background-size: cover;
+    position: relative;
+    width:1200px;
+	height: 900px;
+}
+
+.pig{
+	margin-left: 5px;
+	float: left;
+	background:url(../img/g_logo.png);
+	background-repeat: no-repeat;
+}
+
+.gonggong{
+	font-family: "微软雅黑";
+	color: white;
+	font-size: x-large;
+	line-height: 30px;
+	display: inline-block;
+	position: relative;
+	top:30%;
+}
+.content{
+	padding-top: 100px;
+	padding-left: 60px;
+	width: 490px;
+	height: 600px;
+	margin-left: 5px;
+	margin-top: 300px;
+}
+
+.content1{
+	width: 490px;
+	height: 329px;
+}
+
+.xtu{
+	font-size: 33px;
+	line-height: 60px;
+	color: white;
+	margin-right:210px;
+	visibility: hidden;
+}
+
+.content1-1{
+	width: 490px;
+	height: 87px;
+}
+
+.bate{
+	margin-left: -120px;
+	margin-top:-50px;
+	width: 105px;
+	height: 30px;
+	background-color: #fb6c6d;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	border-radius:7px ;
+}
+
+.content1-2{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 435px;
+	height: 120px;
+	display: inline-block;
+}
+
+.button{
+	line-height: 70px;
+	text-align: center;
+	color: white;
+	background-color: #FB6C6D;
+	font-size: 40px;
+	border-radius: 7px;
+	position: relative;
+	height:60%;
+}
+
+.two{
+	margin-top: -110px;
+	margin-left: 300px;
+	float: left;
+	width: 50px;
+	height: 50px;
+    visibility: hidden;
+}
+
+.phone{
+	width: 100%;
+	height: 100%;
+    margin-left: 400px;
+    margin-top: -600px;
+}
+
+.date{
+	font-size: 17px;
+	color: white;
+}
+
+.bottom{
+	/*底部文字*/
+	width: 100%;
+	height: 200px;
+	margin-top: 200px;
+	text-align: center;
+	display: inline;
+}
+
+.box1{
+	width: 150px;
+	height: 140px;
+	float: left;
+	margin-left: 20px;
+	display: inline-block;
+}
+
+.box2{
+	
+	width: 150px;
+	height: 140px;
+	float: left;
+	position: relative;
+	display: inline-block;
+}
+
+.box3{
+	width: 150px;
+	height: 140px;
+	float: left;
+	position: relative;
+	display: inline-block;
+}
+
+.box4{
+	width: 150px;
+	height: 140px;
+	float: left;
+	position: relative;
+	display: inline-block;
+}
+
+.title1{
+    float: right;
+    padding: 0;
+    margin: 23px 0px 23px 0px;
+    width: 600px;
+    height: 50px;
+    visibility: hidden;
+}
+
+.footer{
+	/*底部*/
+	width: 100%;
+    min-width: 1100px;
+    text-align: center;
+    height: 70px;
+    line-height: 70px;
+    font-size: 13px;
+    color: #989898;
+}
+
+.img{
+	width: 50px;
+	height: 50px;
+}
+
+.content0{
+	visibility: hidden;
+}
+
+
+}
